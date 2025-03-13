@@ -1,8 +1,10 @@
 unique_ids:
   assets:
+    kendo.ui.core.js: '17418509443223689474538.602466'
     standard-page.html: EHHMMJUFFVEKS6ZI3SBLPI7TGUQ2AKFI
     theme.css: 44AYTTBHQLCKRNG4WNZ72ZCMKGES7SHE
-  forms: {}
+  forms:
+    Form1: '1741850724526444983602727.82043'
   modules: {}
   scripts: {}
   server_modules: {}
